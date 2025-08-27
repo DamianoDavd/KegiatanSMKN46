@@ -2,7 +2,7 @@
   "name": "img",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://damianodavd.github.io/KegiatanSMKN46",
+  "homepage": "https://damianodavd.github.io/KegiatanSMKN46",
   "dependencies": {
     "@fontsource/kaushan-script": "^4.5.2",
     "@fontsource/sirin-stencil": "^4.5.2",
